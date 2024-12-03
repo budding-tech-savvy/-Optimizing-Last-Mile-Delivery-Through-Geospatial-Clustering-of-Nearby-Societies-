@@ -109,6 +109,9 @@ fig = px.scatter(
 # Show plot
 fig.show()
 ```
+![image](https://github.com/user-attachments/assets/ab0b37f0-5dfc-42cd-8531-1fc9f7d76a8b)
+
+
 ```sql
 df=data
 ```
