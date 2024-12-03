@@ -4,6 +4,10 @@ Optimized the routing process for over 600 vehicles, reducing the vehicle count 
 ![image](https://github.com/user-attachments/assets/96c9cf03-4d71-4d7f-bc75-46f6714cc6ff)
 
 
+# Chart-1 Earlier, societies had multiple clusters, chart 2- but after applying DBSCAN, there is only one cluster with outliers societies
+![image](https://github.com/user-attachments/assets/71d3520d-57a1-4f6b-ba8a-24e6a68f9f16)
+
+
 
 ```sql
 import pandas as pd
